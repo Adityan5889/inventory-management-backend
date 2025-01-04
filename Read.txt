@@ -1,0 +1,7 @@
+Run the InventoryManagementSystemApplication
+Use tools like Postman or a browser to test the API:
+GET http://localhost:8080/inventory
+POST http://localhost:8080/inventory
+DELETE http://localhost:8080/inventory/{id}
+MySQL is installed and Open Workbench running with a database named inventory_db
+MySql Workbench in open important
